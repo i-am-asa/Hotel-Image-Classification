@@ -1,0 +1,7 @@
+efficientnet_pytorch
+torch
+albumentations
+numpy
+torchvision
+Pillow
+streamlit
